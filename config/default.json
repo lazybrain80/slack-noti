@@ -1,0 +1,19 @@
+{
+    "mysql": {
+        "host": "180.70.98.219",
+        "port": 3306,
+        "db": "IPK_HOLIDAY",
+        "usr": "italk",
+        "pwd": "italk"
+    },
+    "system": {
+        "port": 9090
+    },
+    "cors": {
+        "all": {
+            "origin": true,
+            "credentials": true,
+            "optionsSuccessStatus": 200
+        }
+    }
+}
