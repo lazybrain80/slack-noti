@@ -1,4 +1,4 @@
-FROM lab-dev-docker.inpark.kr/chatbot/docker-os/alpine-node:latest
+FROM alpine-node:latest
 USER root
 WORKDIR /svc
 COPY . ./
